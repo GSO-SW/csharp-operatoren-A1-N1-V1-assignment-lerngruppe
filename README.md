@@ -31,7 +31,7 @@ Dieser Auftrag hat folgende Ziele:
 + Anweisungen unter verschiedenen Bedingungen
 
 ## :bookmark_tabs: Informationsquelle
-Das Informationsmaterial zur Aufgabe finden Sie [hier](AddFiles\SAS_Operatoren_Info.pdf)
+Das Informationsmaterial zur Aufgabe finden Sie [hier](https://github.com/GSO-SW/csharp-operatoren-A1-N1-V1-assignment-lerngruppe/blob/fc072b6ed446678f07d8cfdfd9771f7b23f0ff5a/AddFiles/SAS_Operatoren_Info.pdf)
   
 ---
 
